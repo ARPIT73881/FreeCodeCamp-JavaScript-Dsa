@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/" target="_blank"><img src="https://i.ibb.co/WFjzJ8G/fccjavascript.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/" target="_blank"><img src="https://github.com/user-attachments/assets/541f69ef-69e0-4527-95bb-b10c988b4918" alt="Main-Cover" border="0"></a>
   <br />
 
 # JavaScript Algorithms and Data Structures 
